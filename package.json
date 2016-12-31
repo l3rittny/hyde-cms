@@ -1,7 +1,7 @@
 {
-  "name": "webpack-starter",
+  "name": "hyde-cms",
   "version": "1.0.0",
-  "description": "Bare bones webpack project with a node express server",
+  "description": "Content management system for Jekyll",
   "main": "server/index.js",
   "scripts": {
     "dev-server": "nodemon server/index.js --watch server",
@@ -12,7 +12,7 @@
     "test": "karma start",
     "testing": "karma start --single-run=false"
   },
-  "repository": "git@github.com:cgreening/webpack-starter.git",
+  "repository": "git@github.com:l3rittny/hyde-cms.git",
   "author": "Chris Greening",
   "license": "MIT",
   "dependencies": {

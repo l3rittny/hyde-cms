@@ -1,6 +1,6 @@
 {
-  "name": "Bare bones webpack project",
-  "description": "Barbones webpack starter sample with react",
-  "repository": "https://github.com/cgreening/simple-webpack-react-starter",
-  "keywords": ["node", "express", "webpack", "react"]
+  "name": "hyde-cms",
+  "description": "Content management system for Jekyll",
+  "repository": "https://github.com/l3rittny/hyde-cms",
+  "keywords": ["node", "express", "jekyll", "react", "github pages", "cms"]
 }
